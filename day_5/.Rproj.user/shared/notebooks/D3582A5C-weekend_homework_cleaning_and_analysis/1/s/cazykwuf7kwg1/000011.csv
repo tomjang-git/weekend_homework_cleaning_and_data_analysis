@@ -1,0 +1,6 @@
+"0","meteorite_landings <-"
+"0","meteorite_landings %>% "
+"0","  separate(GeoLocation, sep = "","", into = c(""latitude"", ""longitude""))"
+"2","Error: object 'GeoLocation' not found
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"

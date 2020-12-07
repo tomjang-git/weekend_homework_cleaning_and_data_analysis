@@ -1,0 +1,5 @@
+"0","meteorite_landings %>% 
+  gsub("":punct:"", """", df$longtitude)
+"
+"2","Error in df$longtitude : object of type 'closure' is not subsettable
+"

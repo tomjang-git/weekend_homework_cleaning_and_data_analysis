@@ -1,0 +1,3 @@
+"0","meteorite_landings <-"
+"0","meteorite_landings %>% "
+"0","  mutate(latitude = str_replace_all(latitude, ""\\("", """"))"
